@@ -1,0 +1,16 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserSplitPos": 0,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, Useful Ribbits]",
+      "[, Useful Ribbits, Source (Gradle)]",
+      "[, Useful Ribbits, Source (Gradle), C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me]",
+      "[, Useful Ribbits, Source (Gradle), C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one]",
+      "[, Useful Ribbits, Source (Gradle), C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one\\useful_ribbits]",
+      "[, Useful Ribbits, Source (Gradle), C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one\\useful_ribbits, C:\\Users\\polop\\MCreatorWorkspaces2\\useful_ribbits\\src\\main\\java\\me\\rogue_one\\useful_ribbits\\goal]"
+    ]
+  }
+}

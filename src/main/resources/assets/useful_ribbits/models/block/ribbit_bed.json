@@ -1,0 +1,9 @@
+{
+  "parent": "useful_ribbits:custom/ribbit_bed",
+  "textures": {
+    "all": "useful_ribbits:block/ribbit_bed",
+    "particle": "useful_ribbits:block/ribbit_bed",
+    "0": "useful_ribbits:block/ribbit_bed"
+  },
+  "render_type": "solid"
+}

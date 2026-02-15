@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "useful_ribbits:ribbit_bed",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "ribbits"
+      }
+    }
+  ]
+}

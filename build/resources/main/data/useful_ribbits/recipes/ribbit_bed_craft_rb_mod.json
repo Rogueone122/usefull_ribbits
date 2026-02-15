@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "ribbits:mossy_oak_planks"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "ribbits:toadstool"
+    }
+  },
+  "result": {
+    "item": "useful_ribbits:ribbit_bed",
+    "count": 1
+  }
+}

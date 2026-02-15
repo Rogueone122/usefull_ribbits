@@ -1,0 +1,9 @@
+{
+  "parent": "useful_ribbits:custom/ribbit_chest",
+  "textures": {
+    "all": "useful_ribbits:block/ribbit_chest",
+    "particle": "useful_ribbits:block/ribbit_chest",
+    "0": "useful_ribbits:block/ribbit_chest"
+  },
+  "render_type": "cutout"
+}

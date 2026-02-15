@@ -1,0 +1,67 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Pilliers",
+					"pivot": [-7, 0, -7],
+					"cubes": [
+						{"origin": [-8, 0.001, -8], "size": [16, 0, 16], "uv": [-16, 67]},
+						{"origin": [-8, 0, -7.5], "size": [2, 13, 2], "uv": [50, 0]},
+						{"origin": [-8, 0, 5.5], "size": [2, 13, 2], "uv": [50, 15]},
+						{"origin": [6, 0, -7.5], "size": [2, 13, 2], "uv": [8, 52]},
+						{"origin": [6, 0, 5.5], "size": [2, 13, 2], "uv": [0, 52]},
+						{"origin": [-9, 14, -8], "size": [9, 2, 16], "pivot": [0, 16, -7], "rotation": [0, 0, -15], "uv": [0, 0]},
+						{"origin": [0, 14, -8], "size": [9, 2, 16], "pivot": [0, 16, -7], "rotation": [0, 0, 15], "uv": [0, 18]}
+					]
+				},
+				{
+					"name": "Hole",
+					"parent": "Pilliers",
+					"pivot": [-7, 0, -7],
+					"cubes": [
+						{"origin": [-6, 0, -6], "size": [2, 1, 12], "uv": [32, 36]},
+						{"origin": [4, 0, -6], "size": [2, 1, 12], "uv": [32, 49]},
+						{"origin": [-4, 0, 4], "size": [8, 1, 2], "uv": [50, 30]},
+						{"origin": [-4, 0, -6], "size": [8, 1, 2], "uv": [50, 33]}
+					]
+				},
+				{
+					"name": "Block",
+					"parent": "Hole",
+					"pivot": [-3, 0, 3],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 8, 8], "uv": [0, 36]}
+					]
+				},
+				{
+					"name": "Poulie",
+					"parent": "Pilliers",
+					"pivot": [-7, 0, -7],
+					"cubes": [
+						{"origin": [-2, 12, -2], "size": [4, 2, 4], "uv": [16, 52]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "Poulie",
+					"pivot": [0, 0, 0],
+					"rotation": [0, -45, 0],
+					"cubes": [
+						{"origin": [-1.5, 0, 0], "size": [3, 12, 0], "pivot": [0, 0, 0], "rotation": [0, 90, 0], "uv": [58, 12]},
+						{"origin": [-1.5, 0, 0], "size": [3, 12, 0], "uv": [58, 0]}
+					]
+				}
+			]
+		}
+	]
+}

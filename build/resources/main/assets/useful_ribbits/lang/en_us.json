@@ -1,0 +1,19 @@
+{
+  "subtitles.ribbit_ambiant": "",
+  "item.useful_ribbits.farmer_ribbit_spawn_egg": "Farmer Ribbit Spawn Egg",
+  "gui.useful_ribbits.ribbit_chest_gui.label_ribbit_chest": "Ribbit Chest",
+  "subtitles.ribbit_death": "",
+  "item_group.useful_ribbits.useful_ribbits": "Useful Ribbits",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty": "\u003c",
+  "entity.useful_ribbits.farmer_ribbit": "Farmer Ribbit",
+  "item.useful_ribbits.chef_ribbit_spawn_egg": "Chef Ribbit Spawn Egg",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty1": "\u003c",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty2": "\u003c",
+  "entity.useful_ribbits.miner_ribbit": "Miner Ribbit",
+  "entity.useful_ribbits.chef_ribbit": "Chef Ribbit",
+  "item.useful_ribbits.miner_ribbit_spawn_egg": "Miner Ribbit Spawn Egg",
+  "subtitles.ribbit_step": "",
+  "block.useful_ribbits.ribbit_bed": "Ribbit Bed",
+  "block.useful_ribbits.ribbit_chest": "Ribbit Chest",
+  "subtitles.ribbit_hurt": ""
+}

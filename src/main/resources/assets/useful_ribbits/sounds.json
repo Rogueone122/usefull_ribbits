@@ -1,0 +1,66 @@
+{
+  "ribbit_ambiant": {
+    "sounds": [
+      {
+        "name": "useful_ribbits:ribbit_ambient1",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_ambient2",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_ambient3",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_ambient4",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_ambient5",
+        "stream": false
+      }
+    ]
+  },
+  "ribbit_death": {
+    "sounds": [
+      {
+        "name": "useful_ribbits:ribbit_death1",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_death2",
+        "stream": false
+      }
+    ]
+  },
+  "ribbit_hurt": {
+    "sounds": [
+      {
+        "name": "useful_ribbits:ribbit_hurt1",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_hurt2",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "ribbit_step": {
+    "sounds": [
+      {
+        "name": "useful_ribbits:ribbit_step1",
+        "stream": false
+      },
+      {
+        "name": "useful_ribbits:ribbit_step2",
+        "stream": false
+      }
+    ]
+  }
+}

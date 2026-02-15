@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "useful_ribbits:block/ribbit_bed"
+    },
+    "facing=east": {
+      "model": "useful_ribbits:block/ribbit_bed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "useful_ribbits:block/ribbit_bed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "useful_ribbits:block/ribbit_bed",
+      "y": 270
+    }
+  }
+}

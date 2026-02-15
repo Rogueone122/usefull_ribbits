@@ -1,0 +1,19 @@
+{
+  "subtitles.ribbit_ambiant": "",
+  "item.useful_ribbits.farmer_ribbit_spawn_egg": "Oeuf d\u0027apparition de Farmer",
+  "gui.useful_ribbits.ribbit_chest_gui.label_ribbit_chest": "Coffre Ribbit",
+  "subtitles.ribbit_death": "",
+  "item_group.useful_ribbits.useful_ribbits": "Useful Ribbits",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty": "\u003c",
+  "entity.useful_ribbits.farmer_ribbit": "Ribbit Fermier",
+  "item.useful_ribbits.chef_ribbit_spawn_egg": "Oeuf d\u0027apparition de Ribbit Cuisinier",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty1": "\u003c",
+  "gui.useful_ribbits.ribbit_bed_gui.button_empty2": "\u003c",
+  "entity.useful_ribbits.miner_ribbit": "Ribbit Mineur",
+  "entity.useful_ribbits.chef_ribbit": "Ribbit Cuisinier",
+  "item.useful_ribbits.miner_ribbit_spawn_egg": "Oeuf d\u0027apparition de Miner",
+  "subtitles.ribbit_step": "",
+  "block.useful_ribbits.ribbit_bed": "Lit Ribbit",
+  "block.useful_ribbits.ribbit_chest": "Coffre Ribbit",
+  "subtitles.ribbit_hurt": ""
+}
